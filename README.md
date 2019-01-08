@@ -3,6 +3,8 @@ Easy Bezier-Curve-Editor in JavaScript
 
 # How to use
 * Mouse drag to move points
+  - with press x : move following x axis  
+  - with press y : move following y axis  
 * Press enter key to save
 * Press right arrow to undo
 * Press left arrow to redo

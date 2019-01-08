@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    overflow: hidden;
+
+    color: white;
+    background: #181818;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    letter-spacing: 10px;
+    text-shadow: 0px 0px 15px #fff;
+
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+textarea {
+    width: 100%;
+    position: relative;
+    bottom: 7px;
+
+    border: none;
+    background: none;
+    font-family: 'Montserrat', sans-serif;
+
+    /* color: #18bbf7; */
+    color: #14e568;
+    font-size: 15px;
+    padding: 10px;
+}
